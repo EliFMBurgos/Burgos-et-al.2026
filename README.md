@@ -6,4 +6,5 @@ Any other use — including but not limited to research reuse, publication, redi
 
 The data are subject to specific provincial and national ethical approvals associated with the published study, and additional uses may require new ethical clearance.
 
-If you wish to use these data for purposes beyond education, please contact the corresponding authors directly.
+If you wish to use these data for purposes beyond education, please contact the corresponding authors directly. 
+isabelgv@ege.fcen.uba.ar; burgosef@gmail.com
